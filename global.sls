@@ -3,6 +3,7 @@ global_installed:
     - pkgs:
       - vim
       - git
+      - curl
 global_removed:
   pkg.removed:
     - pkgs:
